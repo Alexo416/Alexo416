@@ -1,4 +1,4 @@
-<h1>Hello, my name is Alex and I am currently attending Mohawk College</h1>
+<h1>Hello, im Alex</h1>
 
  * <b>Languages Learned(So Far)</b>: Python, Java, HTML/CSS
  * <b>Currently Learning</b>: C#, PHP, JavaScript and SQL
