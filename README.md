@@ -1,7 +1,6 @@
 <h1>Hello, im Alex</h1>
 
- * <b>Languages Learned(So Far)</b>: Python, Java, HTML/CSS
- * <b>Currently Learning</b>: C#, PHP, JavaScript and SQL
+ * <b>Experienced with</b>: Python, Java, HTML/CSS, React/React Native, C#, SQL, PHP, Microsoft Azure
  
  
 <!---
