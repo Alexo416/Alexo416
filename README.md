@@ -1,6 +1,6 @@
 <h1>Hello, im Alex</h1>
 
- * <b>Experienced with</b>: Python, Java, HTML/CSS, React/React Native, C#, SQL, PHP, Microsoft Azure and Asp.net
+ * <b>Experienced with</b>: Python, Java, HTML/CSS, React/React Native, C#, SQL, PHP, Microsoft Azure and ASP.NET
  
  
 <!---
